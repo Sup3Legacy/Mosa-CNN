@@ -1,4 +1,4 @@
-# Mosa-CNN
+# Mosa-CNN (Projet terminé)
 utilisation d'un CNN pour générer des motifs de mosaïques
 
 # Introduction
